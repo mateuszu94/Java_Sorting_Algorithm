@@ -32,8 +32,7 @@ See the time complexity of the selected algorithm
 Contributing
 Contributions are always welcome! If you would like to contribute to this project, feel free to fork this repository and create a pull request with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
 
 
