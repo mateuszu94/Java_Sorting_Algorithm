@@ -36,5 +36,3 @@ Contributions are always welcome! If you would like to contribute to this projec
 
 
 
-
-Regenerate response
